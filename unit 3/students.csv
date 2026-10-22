@@ -1,0 +1,21 @@
+student_id,name,age,city,course,marks
+1,Aarav Patel,20,Ahmedabad,IMSc IT,85
+2,Diya Shah,21,Surat,BCA,91
+3,Vivaan Mehta,20,Vadodara,IMSc IT,78
+4,Anaya Desai,22,Rajkot,BSc CS,88
+5,Reyansh Joshi,19,Ahmedabad,BCA,73
+6,Isha Trivedi,21,Gandhinagar,IMSc IT,95
+7,Advik Shah,20,Surat,BSc CS,67
+8,Sara Patel,22,Bhavnagar,BCA,82
+9,Arjun Parmar,19,Ahmedabad,IMSc IT,76
+10,Myra Shah,21,Anand,BSc CS,89
+11,Krish Patel,20,Vadodara,BCA,92
+12,Aadhya Mehta,22,Surat,IMSc IT,81
+13,Dhruv Joshi,19,Rajkot,BSc CS,64
+14,Kiara Desai,21,Ahmedabad,BCA,97
+15,Atharv Trivedi,20,Gandhinagar,IMSc IT,70
+16,Navya Parmar,22,Bhavnagar,BSc CS,86
+17,Kabir Mehta,19,Anand,BCA,79
+18,Saanvi Patel,21,Surat,IMSc IT,93
+19,Rudra Shah,20,Vadodara,BSc CS,58
+20,Pari Joshi,22,Ahmedabad,BCA,84

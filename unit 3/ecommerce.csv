@@ -1,0 +1,16 @@
+Order_ID,Customer_Name,Product,Category,Region,Quantity,Price,Payment_Mode
+1001,Aarav Patel,Laptop,Electronics,West,1,65000,Credit Card
+1002,Diya Shah,Headphones,Electronics,North,2,2500,UPI
+1003,Rohan Mehta,Smartphone,Electronics,South,1,42000,Debit Card
+1004,Anaya Desai,T-shirt,Clothing,West,3,799,UPI
+1005,Vivaan Joshi,Running Shoes,Footwear,East,1,3500,Cash
+1006,Isha Trivedi,Coffee Maker,Home Appliances,North,1,4500,Credit Card
+1007,Krish Patel,Backpack,Accessories,West,2,1800,UPI
+1008,Myra Shah,Smartwatch,Electronics,South,1,8500,Debit Card
+1009,Aditya Mehta,Keyboard,Electronics,East,2,2200,Net Banking
+1010,Sara Desai,Jeans,Clothing,North,2,1999,UPI
+1011,Arjun Joshi,Tablet,Electronics,South,1,28000,Credit Card
+1012,Kiara Trivedi,Water Bottle,Home & Kitchen,West,3,499,Cash
+1013,Dev Patel,Monitor,Electronics,East,1,14500,Net Banking
+1014,Aanya Shah,Sneakers,Footwear,North,1,3200,Debit Card
+1015,Reyansh Mehta,Wireless Mouse,Accessories,West,2,1200,UPI
